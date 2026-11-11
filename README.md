@@ -1,1 +1,1 @@
-# termoguia-gs
+# TermoGuia - GS
